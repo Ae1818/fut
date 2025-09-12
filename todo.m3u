@@ -1176,3 +1176,61 @@ https://archive.org/serve/la-vida-loca.-2008-christian-poveda-documental-canal-s
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg",Lilo & Stitch (2025)
 https://archive.org/download/l-ilo-stich-live-action-27052501/lIlo%20%26%20Stich-liveAction_27052501.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/scoobydoobydoo/images/1/16/Alohacover.jpg/revision/latest/thumbnail/width/360/height/360?cb=20201013125814&path-prefix=es" group-title="PELICULAS",Scooby Doo Aloha (2005)
+https://archive.org/download/scooby-doo-aloha-el-misterio-de-la-isla-1080p-id-24615_202104/Scooby-Doo%21%20Aloha%2C%20El%20misterio%20de%20la%20isla%201080p%20id_24615.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/GdMDcacJra4ZmDaBIRASIpzjmU.jpg",Toy story 1996
+http://fina.dyndns.tv/Peliculas/Toy%20story%201.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/9rpdhn7p7mDZW2rUXsINf9c6sR5.jpg",La Era de Hielo 2002
+"url": "http://fina.dyndns.tv/Peliculas/La%20Era%20de%20Hielo%201.mkv
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/cutout-1677429730/Finne.jpg",Buscando A Nemo
+https://archive.org/download/lokng-4-n-3m-0/Lokng%204%20N3m0.mp4
+
+#EXTINF:-1 tvg-logo="https://polimor.club/wp-content/uploads/2024/07/9TFSqghEHrlBMRR63yTx80Orxva-200x300.jpg" group-title="PELICULAS",Deadpool 3
+https://www.polimor.club/movies/deadpool3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2W6YRhS/Cuidado-beb-suelto.jpg",Cuidado: bebé suelto
+https://dl.dropbox.com/s/yq7zhnax9nxhogz/cuidado%20beb%C3%A9%20suelto.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VVdzRrh/elgato.jpg",El gato (2003)
+https://ia601602.us.archive.org/16/items/3l-g-4t-0o-hd-720p-1103201/3l_g4t0o_HD__720p___1103201.mp4
+
+#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/838/posters/6078b40b3fa8f.jpg" group-title="PELICULAS", Náufrago (2000)
+http://144.217.70.79/VODS-M/1080P/Cast%20Away%202000.mkv
+
+#EXTINF:-1 group-title="Coleccion Merry Crhistmas"
+#EXTINF:-1 tvg-logo="https://archive.org/download/ha2_20230103/ho1.png",Mi pobre angelito
+https://ia601509.us.archive.org/1/items/mipobreangelito2_201911/Mi%20Pobre%20Angelito%201.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ftg0dhN/mi-pobre-angelito2.jpg",Mi pobre angelito 2: Perdido en Nueva York
+https://ia801506.us.archive.org/12/items/4-mi-pobre-angelito-2-1992/4%20Mi%20Pobre%20Angelito%202%20%281992%29.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="USA", TELEMUNDO CA 
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="USA",ANIMAL PLANET ENG   
+https://kusnadipepenk.github.io/ntn/animal.m3u8
+
+#EXTINF:-1,  tvg-name="DISCOVERYCH"  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYCHANNEL.png" group-title="CULTURA",DISCOVERY CHANNEL
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.Space.(México).sv" tvg-logo="https://i.imgur.com/hgCWY6V.png" group-title="CULTURA",Space
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02849e7ba3c2e527a9a8152ff111fc22:87af284b8fc6be1cbf693f20175671a9
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/SPACE-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmK1H3Q.png" group-title="NOTICIAS",Milenio Televisión
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YQWgAVC.png" group-title="USA", Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/aHPNTpZ.png",ADULT SWIMM
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc26110bb0d29d0e4452d42602846080:4a2e5782e26a3e2d7dd0431205c14518
+https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd
