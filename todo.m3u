@@ -61,3 +61,43 @@ https://d2cozakhtdw466.cloudfront.net/out/v1/0310eeeafd9a491796b23aec39fad1c4/in
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="EL SALVADOR", 1 | WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/TU-TV-El-Salvador-Canal-11-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="EL SALVADOR",CANAL 11 TUTV
+https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/02_logo/tvu_salvador.jpg" group-title="EL SALVADOR",TVM
+http://201.247.102.189/tmp_hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvcnetwork.net/wp-content/uploads/2021/10/TVC-08.png" group-title="EL SALVADOR", TVC Network
+#EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
+https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://canal3impresionante.com/wp-content/uploads/2020/12/LOGO-CANAL-3-con-circulo-blanco-1-768x651.png" group-title="EL SALVADOR", Canal 3
+https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canal_12_El_Salvador_2018.png/150px-Canal_12_El_Salvador_2018.png" group-title="EL SALVADOR",CANAL 12
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn7yi1CksUKB25wQINEigJ3_V-ot6wj2Nl4k00LoaP&s" group-title="EL SALVADOR",TABER TV
+https://5ca9af4645e15.streamlock.net:443/tabertv/smil:tabertv.smil/chunklist_w1491631889_b1428000_DVR_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/30f439_be718965db074a8dbffa1d7669a5e9ab~mv2.png/v1/fill/w_260,h_246,al_c,q_85,usm_1.20_1.00_0.01,enc_auto/30f439_be718965db074a8dbffa1d7669a5e9ab~mv2.png" group-title="EL SALVADOR", CANAL 65
+https://panel.streamingtv-mediacp.online:1936/tv65/tv65/chunklist_w17059926.m3u8
+
+#EXTINF:-1 tvg-name="Mega cine" tvg-logo="https://i.ibb.co/H4Hxv9B/2893-294x165-FFFFFF-11zon.webp" group-title="CINE", Mega cine
+https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1599px-Deutsche_Welle_symbol_2012.svg.png" group-title="NOTICIAS",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ABCTV/EXPORTACION_WEB/SS/ABCTV_t-290x163.png" group-title="NOTICIAS", ABC TV 🇵🇾
+https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRfQZMK.png" group-title="NOTICIAS",Fox News
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=2722647f77b44824c432a3c4555830a2&key%5B%5D=1734befb82f4b438bd84195f6c212e7b
+#EXTINF:-1 tvg-name="conect" tvg-logo="https://i.postimg.cc/sDTYkQ3g/tudn.png", group-title="Mundial de Clubes - FIFA", Mundial Clubes (3)
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDNHD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=c90a67ecf6b94d7083a214b9adc7ad4f:45c7042cbed34e601e52df2869b0ca2d
