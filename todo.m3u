@@ -850,3 +850,90 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 
 #EXTINF:-1 tvg-id="APlusGuate.gt" tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="CENTROAMERICA",A+ Guate 🇬🇹
 https://ch2-tva.duin.dev/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Canal13Esquipulas.gt" tvg-logo="https://i.imgur.com/INKZvlN.png" group-title="CENTROAMERICA",Canal 13 Esquipulas 🇬🇹
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="CENTROAMERICA", TV AZTECA GUATE 
+https://ch1-tva.duin.dev/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/400px-Teletica_Logo.png" group-title="CENTROAMERICA", TELETICA 🇨🇷
+#EXTVLCOPT:http-referrer=https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9_13428?id=tv7&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8&mediaUrl2=https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa" tvg-id="5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa" tvg-logo="https://hootlask.com/img/logo/ea.jpg" group-title="CINE" , Cine Canal
+https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
+
+
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://i.imgur.com/0LWxQ0O.png" tvg-id="",canal 7 🇬🇹
+https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tPHTzrrC/HCH.png" group-title="CENTROAMERICA",HCH TV 🇭🇳
+https://dvrfl03.bozztv.com/hondu-hchtv/index.m3u8
+
+#EXTINF:-1 tvg-id="repretel.6.cr" tvg-name="CR | Repretel 6 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png" group-title="CENTROAMERICA", Repretel 6 🇨🇷
+https://d1vr8yxz55pucr.cloudfront.net/live2/alba-cr-repretel-c6_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Canal1.cr" tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="CENTROAMERICA",Canal 1🇨🇷
+https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cFvwI5Y.jpg" group-title="CENTROAMERICA" tvg-id="", Dios Te Ve
+rtmp://s.emisoras.tv/static/diostevetv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ivaiATd.png" group-title="INFANTILES" tvg-id="", Dios Te Ve Kids
+rtmp://s.emisoras.tv/static/diostevekids
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.pinimg.com/236x/aa/fc/d6/aafcd6d54dfeded3f8f5305503fc008e.jpg", BS INDO 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fb8vC9Z.png" group-title="CENTROAMERICA" tvg-id="", TN23 🇬🇹
+https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="lasexta.es" tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="DEPORTES", ESPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://garudamadridista.mooo.com:7285/espncol/Content/DASH_DASH_FK/Live/channel(ESPN_HD)/master.mpd
+
+#EXTINF:-1 tvg-id="lasexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA", LA SEXTA
+http://185.189.225.150:85/LaSexta/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/MegaHD.png" group-title="ESPAÑA", Mega HD
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:15_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-chno="79.5" tvg-id="Clan"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Clan.png" group-title="ESPAÑA" , Clan 
+https://d3nnqrdb77sy13.cloudfront.net/Clan_ES.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/873/769/png-clipart-espn-com-logo-espn-radio-others-text-label-thumbnail.png" group-title="DEPORTES", ESPN 🇧🇷
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8?|referer=https://futebolplayhd.com/
+
+#EXTINF:-1 group-title="CULTURA" tvg-id="744dtv.cl", tvg-logo="https://i.imgur.com/MpfpVW8.png", History 2
+https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1024px-Discovery_Turbo_logo.svg.png" group-title="CULTURA" ,Discovery Turbo 
+https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
+
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://www.pngkit.com/png/full/166-1669896_yellow-rectangle-png-colorfulness.png",NatGeo 
+https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+
+#EXTINF:-1 group-title="CINE" tvg-id="Canal.Sony.(México).mx" tvg-logo="https://i.imgur.com/lyvKcFK.png",Sony Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"srRden2wc3DzocXpFkawYg","k":"LrN9rsu0OOWMMWZGtxX8gg"}],"type":"temporary"}
+https://cors.jugorder.de/https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(SONY_HD)/manifest.mpd
+
+#EXTINF:-1 group-title="CINE" tvg-id="Canal.Cine.Sony.sv" tvg-logo="https://i.imgur.com/ZhH7tLU.png",Sony Movies
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6c0b2a5a6d7aa72f6f76f3607364cea:29772b450393146e8d1b56107f5163a2 
+https://live-atv-cdn.izzigo.tv/4/out/u/dash/SONY-MOVIES-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", PELIS TV
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
