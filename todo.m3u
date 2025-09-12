@@ -1234,3 +1234,74 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc26110bb0d29d0e4452d42602846080:4a2e5782e26a3e2d7dd0431205c14518
 https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd
+
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://i.ibb.co/q7frGQz/fs3-mx.png" group-title="DEPORTES", FOX SPORTS 3 🇲🇽
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+
+#EXTINF:-1 tvg-id="NovaSport1.cz" tvg-logo="https://i.ibb.co.com/56y8MCX/novasport1.png" group-title="DEPORTES",Nova Sport 1 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="NovaSport2.cz" tvg-logo="https://i.ibb.co.com/QQ8zfv4/novasport2.png" group-title="DEPORTES",Nova Sport 2 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/garfield-fuera-de-casa.jpg"group-title="", Garfield Fuera De Casa
+https://www.googleapis.com/drive/v3/files/12RjrlNhrmKSx9kg3-JJCSf6uJJWlZs-W?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://socialgeek.co/wp-content/uploads/2024/03/image-4.png",Intensamente 2
+https://www.polimorhdd.online/stuff/intensamente2.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EL SALVADOR", BEIN SPORTXTRA Ñ 🇸🇻
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://mx.web.img2.acsta.net/img/2c/28/2c28d9fed637b36d2a740d7752f42dd5.jpeg",Bad Boys: Hasta la muerte
+https://ia600408.us.archive.org/31/items/b4d_b0y/b4d_B0y%24.mp4
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.imgur.com/rN0vNMn.png", beIN Sports XTRA ñ
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/4gDNAsYbCOP3z4xyM0IhbPl5Rq3.jpg"group-title="",El inicio del mundo de creek
+https://dl.dropbox.com/scl/fi/97g4iy165oapgfif62i4m/236553-64dd6e0c-ad31-4023-80da-59b9642e59a9-ezja-2003579-streamwish.mp4?rlkey=41fflfbff0z1f4jq0yftxxtm7&dl=0
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/kung-fu-panda-4.jpg" group-title="",Kun fu panda 4 
+https://dl.dropboxusercontent.com/scl/fi/9t1ssgrlcnx8ir70ku4px/K6yn7f7u-p3ta5nd6a.mp4?rlkey=fht4c7krhd1ri66rueomazzzl&st=px3ll9ip
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/eAp25k6jHPVroZ8XXvY7BDBpLgt.jpg"group-title="",volumen 1
+https://archive.org/download/lo-mejor-del-chavo-dvdr-1/LoMejorDelChavo_DVDR1.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/eAp25k6jHPVroZ8XXvY7BDBpLgt.jpg"group-title="",volumen 4
+https://archive.org/download/lo-mejor-del-chavo-dvdr-4/LoMejorDelChavo_DVDR4.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/eAp25k6jHPVroZ8XXvY7BDBpLgt.jpg"group-title="",volumen 5
+https://archive.org/download/lo-mejor-del-chavo-dvdr-5/LoMejorDelChavo_DVDR5.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/eAp25k6jHPVroZ8XXvY7BDBpLgt.jpg"group-title="",volumen 6
+https://archive.org/download/lo-mejor-del-chavo-dvdr-6/LoMejorDelChavo_DVDR6.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/eAp25k6jHPVroZ8XXvY7BDBpLgt.jpg"group-title="",volumen 8
+https://archive.org/download/lo-mejor-del-chavo-dvdr-8/LoMejorDelChavo_DVDR8.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/eAp25k6jHPVroZ8XXvY7BDBpLgt.jpg"group-title="",volumen 9
+https://archive.org/download/lo-mejor-del-chavo-dvdr-9/LoMejorDelChavo_DVDR9.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/eAp25k6jHPVroZ8XXvY7BDBpLgt.jpg"group-title="",volumen 10
+https://archive.org/download/lo-mejor-del-chavo-dvdr-10/LoMejorDelChavo_DVDR10.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/eAp25k6jHPVroZ8XXvY7BDBpLgt.jpg"group-title="",volumen 11
+https://archive.org/download/lo-mejor-del-chavo-dvdr-11/LoMejorDelChavo_DVDR11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4hnOzaz.png" group-title="PELICULAS", VACACIONES EN ACAPULCO (1977)
+https://www.udrop.com/file/Mgji/CHVACAPUL.mp4
