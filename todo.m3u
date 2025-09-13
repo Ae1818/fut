@@ -418,7 +418,7 @@ https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="ESPN.Deportes.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-deportes.png" tvg-name="ESPN Deportes" ,ESPN Deportes
-http://190.92.10.66:4000/play/a003/index.m3u8
+https://tvpass.org/live/espn-deportes/hd
 
 #EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/ADN-40-en-vivo-Online.png?zoom=3&resize=324%2C235&ssl=1" group-title="MEXICO", ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
