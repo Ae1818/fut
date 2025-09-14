@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="Actualizado 13/septiembre/2025"
+#EXTM3U billed-msg="Actualizado 14/septiembre/2025"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -308,7 +308,7 @@ https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mpd/TV5Monde.mpd
 https://cors-proxy.cooks.fyi/https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/TUDNH_HD_TVE_25039_0_7642147744339498163.mpd
 
 #EXTINF:-1 tvg-logo="https://www.fifaratings.com/wp-content/uploads/Saudi-Professional-League.png" group-title="LIGAS EUROPEAS",LIGA ARABE
-https://fl3.moveonjoy.com/TUDN/tracks-v1a1/mono.ts.m3u8
+https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="https://www.fifaratings.com/wp-content/uploads/Saudi-Professional-League.png" group-title="LIGAS EUROPEAS", LIGA ARABE (2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
