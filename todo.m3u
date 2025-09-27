@@ -1,19 +1,13 @@
-#EXTM3U billed-msg="Actualizado 24/septiembre/2025"
+#EXTM3U billed-msg="Actualizado 27/septiembre/2025"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live/live-audio_0=64000-video=2000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="EL SALVADOR",CANAL 4
-#EXTVLCOPT:http://clubtv.link/my0505/phpcode/android0.php?c=709&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate%20Player/1.0.7
-http://tmp-sv5.teleon.live:8080/play/a00i/index.m3u8
+https://telecorporacion.cdn.vustreams.com/live/ed89f096-00b1-4d6e-806a-ad9064a603e3/live.isml/live-audio_0=64000-video=2000000.m3u8
 
-#EXTINF:-1 group-title="EL SALVADOR" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png", CANAL 4 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://190.83.2.172:8080/play/a00i/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="EL SALVADOR",CANAL 4 SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="EL SALVADOR",CANAL 4 HD
 #EXTVLCOPT:http://clubtv.link/my0505/phpcode/android0.php?c=709&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate%20Player/1.0.7
 http://tmp-sv5.teleon.live:8080/play/a011/index.m3u8
 
@@ -81,8 +75,8 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn7yi1CksUKB25wQINEigJ3_V-ot6wj2Nl4k00LoaP&s" group-title="EL SALVADOR",TABER TV
 https://5ca9af4645e15.streamlock.net:443/tabertv/smil:tabertv.smil/chunklist_w1491631889_b1428000_DVR_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/30f439_be718965db074a8dbffa1d7669a5e9ab~mv2.png/v1/fill/w_260,h_246,al_c,q_85,usm_1.20_1.00_0.01,enc_auto/30f439_be718965db074a8dbffa1d7669a5e9ab~mv2.png" group-title="EL SALVADOR", CANAL 65
-https://panel.streamingtv-mediacp.online:1936/tv65/tv65/chunklist_w17059926.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBZgtPkV/Agape.png439_be718965db074a8dbffa1d7669a5e9ab~mv2.png" group-title="EL SALVADOR", Agapetv 8
+https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Mega cine" tvg-logo="https://i.ibb.co/H4Hxv9B/2893-294x165-FFFFFF-11zon.webp" group-title="CINE", Mega cine
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
