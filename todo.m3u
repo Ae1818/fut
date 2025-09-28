@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="Actualizado 27/septiembre/2025"
+#EXTM3U billed-msg="Actualizado 28/septiembre/2025"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -1042,8 +1042,8 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="CINE", AXN
 https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i2.paste.pics/dad53a17aceb11d80b7ec90ec2398f2f.png" group-title="INFANTILES", Moni TV
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i2.paste.pics/dad53a17aceb11d80b7ec90ec2398f2f.png" group-title="INFANTILES", chinola tv
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/wjT0QhKQ/espn-2.png", ESPN 2🇲🇽
 #EXTVLCOPT:network-caching=1000
