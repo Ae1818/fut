@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="Actualizado 28/septiembre/2025"
+#EXTM3U billed-msg="Actualizado 04/octubre/2025"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -355,6 +355,22 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 
 #EXTINF:-1 group-title="LIGAS EUROPEAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png" ,PREMIER LEAGUE (5)
 https://dl.dropboxusercontent.com/scl/fi/51vk0ol0f0zo1falb559o/supersport-premier-league.m3u8?rlkey=m5fxkwayzm3a1vtdc0vc9p913&st=gc1udhg6
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
+#EXTINF:-1 group-title="DEPORTES" tvg-id="The Sports Network 1" tvg-name="The Sports Network 1" tvg-logo="https://i.imgur.com/0JdGJpc.png" ,TSN 1 CA
+http://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
+#EXTINF:-1 group-title="DEPORTES" tvg-id="The Sports Network 2" tvg-name="The Sports Network 2" tvg-logo="https://i.imgur.com/8gUvjoQ.png" ,TSN 2 CA
+http://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
 #EXTINF:-1 tvg-id="LIGAS EUROPEAS" group-title="LIGAS EUROPEAS"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png ",PREMIER LEAGUE (6)
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/telm.m3u8
