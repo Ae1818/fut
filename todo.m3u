@@ -76,7 +76,7 @@ https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn7yi1CksUKB25wQINEigJ3_V-ot6wj2Nl4k00LoaP&s" group-title="EL SALVADOR",TABER TV
-https://5ca9af4645e15.streamlock.net:443/tabertv/smil:tabertv.smil/chunklist_w1491631889_b1428000_DVR_sleng.m3u8
+https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TBZgtPkV/Agape.png439_be718965db074a8dbffa1d7669a5e9ab~mv2.png" group-title="EL SALVADOR", Agapetv 8
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
