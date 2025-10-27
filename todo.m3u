@@ -38,6 +38,9 @@ https://live-atv-cdn.izzigo.tv/3/out/u/dash/AANDE-HD/manifest.mpd
 #EXTINF:-1 tvg-chno="820" tvg-logo="https://i.imgur.com/BRzYkgO.png" group-title="CINE", Cinemax
 https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxH0DJz0/pelim.jpg" group-title="CINE",Pelimex (MX)
+https://telecine-pelimex-1-eu.xiaomi.wurl.tv/2000.m3u8
+
 #EXTINF:-1 tvg-id="MX | TV Cuatro de Guanajuato" tvg-name="MX | TV Cuatro de Guanajuato" tvg-logo="https://www.tvcuatro.com/logo%201024.png" group-title="MEXICO",TV Cuatro de Guanajuato
 https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
 
