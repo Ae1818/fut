@@ -1271,8 +1271,8 @@ https://kusnadipepenk.github.io/ntn/animal.m3u8
 http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Space.(México).sv" tvg-logo="https://i.imgur.com/hgCWY6V.png" group-title="CULTURA",Space
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=02849e7ba3c2e527a9a8152ff111fc22:87af284b8fc6be1cbf693f20175671a9
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/SPACE-HD/default.mpd
