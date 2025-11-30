@@ -1165,22 +1165,29 @@ https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i2.paste.pics/dad53a17aceb11d80b7ec90ec2398f2f.png" group-title="INFANTILES", chinola tv
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/wjT0QhKQ/espn-2.png", ESPN 2🇲🇽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=90e2e491c850a49a5ab21bb6fa6b4d24:4d7e33da19b971cef49e35eccdb9de0b
-#https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-2-HD/manifest.mpd
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/q7BVntwP/espn-3.png", ESPN 3🇲🇽
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8rFtMbz/worldtv2.png" group-title="DEPORTES", ESPNMX
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
-https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-3-HD/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=3fb8167957692836eca1464b7f952b45:f31042e8167eb4b49ce8117c9e5f1e85
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPNHDH265/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mksxWpNC/worldtv2.png" group-title="DEPORTES", ESPNMX 2
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048
+https://nog-live1-ott.izzigo.tv/7/out/u/dash/ESPN2HDH265/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1t6xT16y/worldtv2.png" group-title="DEPORTES", ESPNMX 3
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10580600369dbd7ac029f7e737247917:24ef48adb31daa130675c2a502da6982
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN3HDH265/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvR9Mnjh/worldtv2.png" group-title="DEPORTES", ESPNMX 4
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d2d7f1116eeec62d19943a892d721f7:033b809769a3c248af7383aa817fce72
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN4HDH265/default.mpd
 
 #EXTINF:-1 tvg-id="sharktank-sony" tvg-logo="https://i.imgur.com/p8nLe91.jpeg" group-title="24/7",Sony One Sharktank
 https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
