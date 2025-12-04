@@ -33,7 +33,7 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 #EXTGRP:CANALES HOOTLASK
 #EXTVLCOPT:audio-track="es-ES"
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-shift="" tvg-logo="https://hootlask.com/img/logo/ea.jpg" group-title="CULTURA",A&E
-https://live-atv-cdn.izzigo.tv/3/out/u/dash/AANDE-HD/manifest.mpd
+https://live1-ott.izzigo.tv/3/out/u/dash/AANDE-HD/default.mpd
 
 #EXTINF:-1 tvg-chno="820" tvg-logo="https://i.imgur.com/BRzYkgO.png" group-title="CINE", Cinemax
 https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
@@ -1357,6 +1357,12 @@ https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="USA",ANIMAL PLANET ENG   
 https://kusnadipepenk.github.io/ntn/animal.m3u8
+
+#EXTINF:-1,  tvg-name="DISCOVERYCH"  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYCHANNEL.png" group-title="CULTURA",DISCOVERY
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://clarovideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7d4348407bf86d982076fb0ffa654e6:80acc54d3c56ed0770c4f12f91b53b68
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_CHANNEL_HD)/manifest.mpd
 
 #EXTINF:-1,  tvg-name="DISCOVERYCH"  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYCHANNEL.png" group-title="CULTURA",DISCOVERY CHANNEL
 http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
