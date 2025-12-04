@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="Actualizado 30/noviembre/2025"
+#EXTM3U billed-msg="Actualizado 04/diciembre/2025"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -189,7 +189,7 @@ https://use16.playlist.ttvnw.net/v1/playlist/CsEGDnOiOtruxdgGAVLwZSiqJprnznp55PJ
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Ben-10-logo-720x473.png" group-title="CINE",Paramount Network
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.stream_headers=http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90cc957ead3f42e98b46d14e8c4b08de:3ab7cff1e63b9efc40aa962023b4b6b8
 https://live-atv-cdn.izzigo.tv/2/out/u/dash/PARAMOUNT-HD/default.mpd
