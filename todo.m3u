@@ -735,14 +735,10 @@ https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8-OZQYKbCJfjV2C44_gCvEeC-xrqomWNIg&usqp=CAU",Distrito Comedia MX
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e69f7cb969df2eef1b60ddea0458bfef:12ec40e04cf8c533cf306321052726a8 
-https://live-atv-cdn.izzigo.tv/4/out/u/dash/DISTRITO-COMEDIA-HD/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=e69f7cb969df2eef1b60ddea0458bfef:12ec40e04cf8c533cf306321052726a8
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/DISTRITOCOMEDIAHD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png" group-title="EL SALVADOR", TVO
 http://168.227.22.18:1935/tvo/02085f/playlist.m3u8
@@ -778,7 +774,10 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="" tvg-logo="https://logo.iptveditor.com/bit.png" group-title="INFANTILES", BitMe
-http://38.44.109.41:8003/play/a045/index.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e7b281c11f0ff1c3f7ed2d02d0879c1:d385b87ade4441d20c5caee2a8e41da7
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/BITMEHD/default.mpd
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://i.imgur.com/ByQio1V.png",Nick JR 
 #EXTVLCOPT:network-caching=1000
