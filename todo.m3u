@@ -187,12 +187,11 @@ https://stitcher.pluto.tv/stitch/hls/channel/6759ee82bd523200083b4f0f/master.m3u
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/54/cc/c6/54ccc6489166a7b5deeca24728f98f67--movies-free-in-the-middle.jpg" group-title="24/7",MALCOM
 https://use16.playlist.ttvnw.net/v1/playlist/CsEGDnOiOtruxdgGAVLwZSiqJprnznp55PJ_jEIGX9tHE1qVhApY-JUGsop1A1X0MgTsDdc57foqJOhDyfsGTYzrYIdJwebi1c4eKwdwiH5istoyXtqVtE8-LMM-P9nGW4aokceBir5b3xjKuvurbkpXB9zMiXio4dt40vSZwopWt9b_obj4CELj15c0QdQZPyYWYNrueyL6fvE9YoC0HnAcO0_XbX8ZtXhvwVaniuWn3aLHhvzh31Pdn1nHQVfKhhPzsF8Zstne5lUdYYXXyKnpJ6mCYNjl_kP3213c2C0DXG6HqNJTZVHoswThcnQLnqmfzJTbj8HpPY4NhP3HIyhLQE9Vv6QIyRYS4dX3xz88yX46uK26JzEZu2s6nnigNrzeRDPvman9cy3I6waeTFZXyQKGvMIzpRBc06qz4dLYcpX-6j5nZFbafU3Cht2A5KkwOYw6pyP04mYPMthQpgOf1UCGoIRna4YwD9s1Ri3QhYdaQnY460DttrcGYEZadMM2-3inYuEQc54Px2RaRh3HCe0DQA-6u9_p60HPZc7LKXDNjjapZ7EpoR2awUHSUQKj1u9VPXGEDuXt6xKR0ObdssVCklBeZgMr_qMnMV3o062T4jOnpohStUeeYKEFn8aa6AtfwIQVbrVUVivedPSW-8GDb7ZBK0Du1K8tY-Wb-A-C6qx-ABiCyb46kTU40vqZ2jj7n8MMsU7GWW-3ySw64e5JG8VXb_bZnoMalFpiRxD0Nmy8HayY1CVvp5L1nNvsbgqLmuwa6W04MHUaRp_8_Cgu_dVq_MRJySbQeWXTogvWdjAbSBusXeQnd1hKKjxcVKG9lwbjz-LBIpZbfgQScU4ynjtRWEJ8VqZZMzbRehpTFxvmLns1b3jZSrKih10LYk0bdiDWsB7adKpFEvWjJ6I6VUePBrc8LYIbJp-45QmJcE8U1u1v7hmzl90Ng-_oMBIDKLlCX67p62BD3lJUje_eaBs776LLcB4kTmiVHkaBxiUlZMQeocCSsiXfFrfPw7giPhMp5UrilZHCIikRVR-CoeseHSB860b6hYxC8g-eu4ZwGYyIF--WRSadOFHknEJdriWvFkryXbPO8WWxUEcaDMp4XKMWY0eVXqH10SABKgl1cy1lYXN0LTIw6gw.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Ben-10-logo-720x473.png" group-title="CINE",Paramount Network
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-#KODIPROP:inputstream.adaptive.stream_headers=http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/318/CH_LOGO/160/160/0/0/87610940072910.png" group-title="CINE", Paramount
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90cc957ead3f42e98b46d14e8c4b08de:3ab7cff1e63b9efc40aa962023b4b6b8
-https://live-atv-cdn.izzigo.tv/2/out/u/dash/PARAMOUNT-HD/default.mpd
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/PARAMOUNTHD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FKNyC6c/Los-Pitufos-Tv.jpg" group-title="24/7", Los Pitufos
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
@@ -398,11 +397,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungnz/
 #EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_04/1.png.0023d21826401e1887f013aedca3274d.png" group-title="CINE", HBO PLUS
 https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_04/1.png.0023d21826401e1887f013aedca3274d.png" group-title="CINE", HBO PLUS
-https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://heroeip.github.io/logo/HboFamily_1.png" group-title="CINE", HBO FAMILY
-https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png" group-title="CINE", HBO Family
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b1b15c86e64344e8802b06b806957c5:114983add26911b589595d931b505ca5
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOFAMILYHD/default.mpd
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="ESPN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" tvg-name="ESPN",ESPN 🇺🇸
 #EXTVLCOPT:network-caching=1000
