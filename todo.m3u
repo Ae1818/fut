@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="Actualizado 04/diciembre/2025"
+#EXTM3U billed-msg="Actualizado 07/diciembre/2025"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -291,6 +291,9 @@ https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mpd/TV5Monde.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
 https://live1-ott.izzigo.tv/11/out/u/dash/TUDN-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/640px-MX_logo.png" group-title="LIGAS EUROPEAS", LIGA MX (2)
+https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fifaratings.com/wp-content/uploads/Saudi-Professional-League.png" group-title="LIGAS EUROPEAS",LIGA ARABE
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
@@ -728,8 +731,8 @@ https://live-atv-cdn.izzigo.tv/2/out/u/dash/DE-PELICULA-SD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d6f00381cc1a58668a11e2a3e0f20fd9:fc817d45af5dce33cbb79793224b834c
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(TOONCAST)/manifest.mpd
 
-#EXTINF:-1 group-title="NOTICIAS" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-24_m.png", A24
-https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTINF:-1 group-title="NOTICIAS" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-24_m.png", TELEFE 
+http://45.225.40.206:12080/Live/eab080bb8da84db1cd89ee8233571041/telefe.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="MEXICO", IMAGEN TV+
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
