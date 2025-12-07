@@ -101,7 +101,7 @@ https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/li
 https://master.tucableip.com/muxredunosc/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GRfQZMK.png" group-title="NOTICIAS",Fox News
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=2722647f77b44824c432a3c4555830a2&key%5B%5D=1734befb82f4b438bd84195f6c212e7b
