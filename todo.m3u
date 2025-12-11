@@ -1185,14 +1185,9 @@ https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN4HDH265/default.mpd
 #EXTINF:-1 tvg-id="sharktank-sony" tvg-logo="https://i.imgur.com/p8nLe91.jpeg" group-title="24/7",Sony One Sharktank
 https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=694fa2e355b31ac2c52d0a56d3d8da59:0d7eff2e4dc61d48489555068b0db46a
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-#EXTGRP:CANALES HOOTLASK
-#EXTVLCOPT:audio-track="es-ES"
-#EXTINF:-1 tvg-chno="" tvg-id=""tvg-name="" tvg-shift="" tvg-logo="https://hootlask.com/img/logo/ea.jpg" group-title="INFANTILES", ADULT SWIM
-https://live-atv-cdn.izzigo.tv/5/out/u/dash/ADULT-SWIM-HD/manifest.mpd
+#EXTINF:-1 tvg-id="PBS Kids" tvg-logo="https://www.livehdtv.com/uploads/kanal/21773PBS%20Kids.png" group-title="INFANTILES", PBS Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
 
 #EXTINF:-1 tvg-id="NBC Universo" tvg-logo="https://img.nbc.com/files/images/2019/4/25/Universo-logos-templateUniverso-Logo-White-450x228.png?impolicy=nbc_com&imwidth=340&imdensity=1" group-title="DEPORTES", NBC Universo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
