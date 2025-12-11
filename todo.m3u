@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="Actualizado 07/diciembre/2025"
+#EXTM3U billed-msg="Actualizado 11/diciembre/2025"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -762,8 +762,8 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/300px-Telemundo_logo_2012.svg.png" group-title="DEPORTES", TELEMUNDO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=93bf10f6398139ff9bf0f28c641fd371:9945fc9d36616ec453f3942b45f196c4
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNEU)/master.mpd
 
 #EXTINF:-1 tvg-chno="25.9" tvg-id="I47.1.54437.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24521/s73245_ll_h15_ac.png" group-title="USA",Telemundo New York
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1194,13 +1194,10 @@ https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id=""tvg-name="" tvg-shift="" tvg-logo="https://hootlask.com/img/logo/ea.jpg" group-title="INFANTILES", ADULT SWIM
 https://live-atv-cdn.izzigo.tv/5/out/u/dash/ADULT-SWIM-HD/manifest.mpd
 
-#EXTINF:-1 tvg-chno="413" tvg-id="" tvg-logo="https://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="CINE", Cinema+
-https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="NBC Universo" tvg-logo="https://img.nbc.com/files/images/2019/4/25/Universo-logos-templateUniverso-Logo-White-450x228.png?impolicy=nbc_com&imwidth=340&imdensity=1" group-title="DEPORTES", NBC Universo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1b0d41ddf54a37a6b6caa0484bb3df40":"0892217616382e2faf84f6de3847cc7d"}
-#EXTINF:-1 tvg-logo="https://img.nbc.com/files/images/2019/4/25/Universo-logos-templateUniverso-Logo-White-450x228.png?impolicy=nbc_com&imwidth=340&imdensity=1" group-title="DEPORTES",Universo West
-https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd?audio=all&subtitle=all&forcedNarrative=true
+#KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
 
 #EXTINF:-1 tvg-id="ARANG(ArirangTVKoreaWorldNetwork).us" tvg-name="Arirang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28452_dark_360w_270h.png" group-title="CINE",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
