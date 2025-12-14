@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="Actualizado 15/diciembre/2025"
+p#EXTM3U billed-msg="Actualizado 15/diciembre/2025"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -230,7 +230,7 @@ https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_48
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd
 
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="NOTICIAS", aljazeera
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/noR4NUo.jpeg" group-title="NOTICIAS",TELESUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
