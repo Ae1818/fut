@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="Actualizado 16/diciembre/2025"
+#EXTM3U billed-msg="Actualizado 17/diciembre/2025"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -951,6 +951,18 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-dist
 
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="CENTROAMERICA",Canal 1🇨🇷
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png" group-title="CENTROAMERICA", Totovisión 
+https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="CENTROAMERICA", Canal 11 Honduras
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/1200px-VTV_HN_logo_2019.png" group-title="CENTROAMERICA", VTV Honduras 
+https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yCykjIp.png" group-title="CENTROAMERICA", Canal 3 GT
+https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cFvwI5Y.jpg" group-title="CENTROAMERICA" tvg-id="", Dios Te Ve
 rtmp://s.emisoras.tv/static/diostevetv
