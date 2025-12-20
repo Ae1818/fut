@@ -66,8 +66,10 @@ https://d29uu6lcvq8u18.cloudfront.net/out/v1/0fc428527c0b4981900340462bc9e390/in
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Concacaf_logo.svg/500px-Concacaf_logo.svg.png" group-title="LIGAS EUROPEAS",Eliminatorias Concacaf (3)
 https://d2cozakhtdw466.cloudfront.net/out/v1/0310eeeafd9a491796b23aec39fad1c4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="EL SALVADOR", 1 | WOW TV
-https://cdn-startv.cef-technology.com/wow/wow_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="EL SALVADOR", WOW TV
+#EXTVLCOPT:http-referrer=https://wowelsalvador.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn-edge2.cef-technology.com/wow/wow_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/TU-TV-El-Salvador-Canal-11-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="EL SALVADOR",CANAL 11 TUTV
 https://stream.giostreaming.app:19360/canal11/canal11.m3u8
