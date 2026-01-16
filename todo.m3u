@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
-http://200.92.227.238:8000/play/a0sm/index.m3u8
+https://teleon.tv/stream/cG5wODQ3ODEzM3BucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="EL SALVADOR",CANAL 4
 https://teleon.tv/stream/cG5wODQ3ODEyOXBucDg0.m3u8
