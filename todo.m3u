@@ -146,9 +146,6 @@ https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/200px-Logo_TVE-24h.svg.png" group-title="ESPAÑA", 24 horas
 https://d3pfmk89wc0vm9.cloudfront.net/24H_ES.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.telemundo51.com/2022/08/Telemundo-Miami.png?fit=304%2C100&quality=85&strip=all&w=122&h=40" group-title="USA", Telemundo 51
-https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ioy32l1623579346.png" group-title="EL SALVADOR",TIGO SPORTS 🇸🇻
 https://channel03.tigosports.com.sv:443/out/v1/31f36d52d558475ca18799d8ca5e4b40/index_5.m3u8
 
@@ -814,11 +811,6 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93bf10f6398139ff9bf0f28c641fd371:9945fc9d36616ec453f3942b45f196c4
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNEU)/master.mpd
-
-#EXTINF:-1 tvg-chno="25.9" tvg-id="I47.1.54437.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24521/s73245_ll_h15_ac.png" group-title="USA",Telemundo New York
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1f756cffcc838e28a3da6541c00ee8b:1444b1c17a5c1f78435de12dcff47c8e
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WNJU)/master.mpd
 
 #EXTINF:-1 tvg-id="CGTN Español" group-title="NOTICIAS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CCTV-E",CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
