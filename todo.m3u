@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="Actualizado 15/enero/2026"
+#EXTM3U billed-msg="Actualizado 23/enero/2026"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -18,7 +18,7 @@ http://181.78.109.191:1050/play/a0jy/index.m3u8
 https://teleon.tv/stream/cG5wODQ3ODEzMXBucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png" group-title="EL SALVADOR",TCS+
-http://190.14.10.19:16000/play/a00ps/index.m3u8
+https://teleon.tv/stream/cG5wODQ3ODEzNXBucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1498684702747774983/rSyuDSmo_400x400.jpg" group-title="EL SALVADOR",CANAL 19
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
