@@ -308,11 +308,18 @@ https://live1-ott.izzigo.tv/11/out/u/dash/TUDN-HD/default.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/640px-MX_logo.png" group-title="LIGAS EUROPEAS", LIGA MX (2)
 https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/MV1TkCX/skysprtlalgmx.png" group-title="LIGAS EUROPEAS", BUNDESLIGA (1)
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/MV1TkCX/skysprtlalgmx.png" group-title="LIGAS EUROPEAS",BUNDESLIGA (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion" tvg-logo="https://cdn.sportika.net/cropped-laliga-tv-hypermotion-es.png" group-title="DEPORTES", LaLiga TV Hypermotion
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://www.fifaratings.com/wp-content/uploads/Saudi-Professional-League.png" group-title="LIGAS EUROPEAS",LIGA ARABE
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
