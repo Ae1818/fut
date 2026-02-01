@@ -330,10 +330,7 @@ https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGAS EUROPEAS", LIGA ESPAÑOLA (5)
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.106.127:9000/play/ca027/index.m3u8
-
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=espndeportes
 
 #EXTINF:-1 tvg-logo="https://sarapiquitvcr.com/favImage.png"group-title="CINE",STV
 https://lstv.duckdns.org:449/hls/stv.m3u8
