@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="Actualizado 15/febrero/2026"
+#EXTM3U billed-msg="Actualizado 22/febrero/2026"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -1232,25 +1232,29 @@ https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.m3u8
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8rFtMbz/worldtv2.png" group-title="DEPORTES", ESPNMX
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fb8167957692836eca1464b7f952b45:f31042e8167eb4b49ce8117c9e5f1e85
 https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPNHDH265/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mksxWpNC/worldtv2.png" group-title="DEPORTES", ESPNMX 2
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048
 https://nog-live1-ott.izzigo.tv/7/out/u/dash/ESPN2HDH265/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1t6xT16y/worldtv2.png" group-title="DEPORTES", ESPNMX 3
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10580600369dbd7ac029f7e737247917:24ef48adb31daa130675c2a502da6982
 https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN3HDH265/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvR9Mnjh/worldtv2.png" group-title="DEPORTES", ESPNMX 4
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d2d7f1116eeec62d19943a892d721f7:033b809769a3c248af7383aa817fce72
 https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN4HDH265/default.mpd
