@@ -266,13 +266,12 @@ https://nog-live1-ott.izzigo.tv/2/out/u/dash/PARAMOUNTHD/default.mpd
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="LIGAS EUROPEAS" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/340px-Bundesliga_logo_%282017%29.svg.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",BUNDESLIGA (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/110.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a5dd62014be436a7bc25e7a1d1f3ae88:7c90ca01dc68c7ef54fc9a5326f91987
-https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1 
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com
 
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://claplivehdplay.ru/
-#EXTINF:-1 tvg-id="mls.us" tvg-logo="https://i.imgur.com/DBIYmWz.png" group-title="LIGAS EUROPEAS",MLS
-https://megaezztv.webcindario.com/app/sports.php?id=mls
+
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/5/42/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football-world-cup-blue-text-trademark-thumbnail.png" group-title="LIGAS EUROPEAS", COPA DEL REY (3)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
