@@ -325,10 +325,7 @@ https://live1-ott.izzigo.tv/11/out/u/dash/TUDN-HD/default.mpd
 https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/MV1TkCX/skysprtlalgmx.png" group-title="LIGAS EUROPEAS",BUNDESLIGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1 
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+http://38.44.109.41:8003/play/a03x/index.m3u8
 
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion" tvg-logo="https://cdn.sportika.net/cropped-laliga-tv-hypermotion-es.png" group-title="DEPORTES", LaLiga TV Hypermotion
 #KODIPROP:inputstream.adaptive.license_type=clearkey
