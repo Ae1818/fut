@@ -357,7 +357,7 @@ https://lstv.duckdns.org:449/hls/stv.m3u8
 https://v4-kun-nk16-cdn-01.live.cdn.cgates.lt/live/dash/561504/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGAS EUROPEAS", LIGA ESPAÑOLA (4)
-http://supersonictv.live:8080/006779/439866/22222
+http://217.26.190.76:8888/play/a0ee/index.m3u8
 
 #EXTINF:-1 group-title="LIGAS EUROPEAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ViMzUzZjctZTIxNi00M2MxLWJkMmYtYzcyNzU2ZWU4Y2QzXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg" ,CHAMPIONS LEAGUE (3)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -380,10 +380,7 @@ https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
 
 #EXTINF:-1 group-title="LIGAS EUROPEAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png" ,PREMIER LEAGUE
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+http://217.26.190.76:8888/play/a0ee/index.m3u8
 
 #EXTINF:-1 group-title="LIGAS EUROPEAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png" ,PREMIER LEAGUE (3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
