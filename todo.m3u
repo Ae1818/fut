@@ -115,26 +115,25 @@ https://ott2.hdlatam.tv:443/live_abr/Stream67/live/stream67hd/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id=\"ESPN HD.uy\" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="⚽ESPN", ESPN 🇨🇴
-http://217.26.190.76:8888/play/a0ee/index.m3u8
+http://38.44.109.41:8003/play/a03x/index.m3u8
 
 #EXTINF:-1 tvg-id=\"ESPN 2 HD.uy\" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="⚽ESPN", ESPN 2 🇨🇴
-http://217.26.190.76:8888/play/a0kp/index.m3u8
+http://38.44.109.41:8003/play/a03u/index.m3u8
 
 #EXTINF:-1 tvg-id=\"ESPN 3 HD.uy\" group-title="⚽ESPN" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" ,ESPN 3 🇨🇴
-http://217.26.190.76:8888/play/a0k0/index.m3u8
+http://38.44.109.41:8003/play/a03v/index.m3u8
 
 #EXTINF:-1 tvg-id=\"ESPN 5 HD.uy\" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="⚽ESPN", ESPN 4 🇨🇴
-http://217.26.190.76:8888/play/a0jy/index.m3u8
+http://38.44.109.41:8003/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-id=\"ESPN 5 HD.uy\" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="⚽ESPN", ESPN 5 🇨🇴
-http://217.26.190.76:8888/play/a0kh/index.m3u8
+http://38.44.109.41:8003/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-id=\"ESPN 6 HD.uy\" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="⚽ESPN", ESPN 6 🇨🇴
-http://217.26.190.76:8888/play/a0fa/index.m3u8
+http://38.44.109.41:8003/play/a03x/index.m3u8
 
 #EXTINF:-1 tvg-id=\"ESPN 7 HD.uy\" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="⚽ESPN", ESPN 7 🇨🇴
-http://217.26.190.76:8888/play/a0g2/index.m3u8
-
+http://38.44.109.41:8003/play/a03z/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="CULTURA",Nat Geo Wild
@@ -382,7 +381,7 @@ https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
 
 #EXTINF:-1 group-title="LIGAS EUROPEAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png" ,PREMIER LEAGUE
-http://217.26.190.76:8888/play/a0ee/index.m3u8
+http://38.44.109.41:8003/play/a03x/index.m3u8
 
 #EXTINF:-1 group-title="LIGAS EUROPEAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png" ,PREMIER LEAGUE (3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
