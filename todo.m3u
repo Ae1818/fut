@@ -245,10 +245,12 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="NOTICIAS", aljazeera
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-id="Canal 13 HD" tvg-name="Canal 13 HD" tvg-logo="https://i.ibb.co/hsPWxXx/canal-13.png" group-title="NOTICIAS",CANAL 13 HD
+#EXTINF:-1 tvg-id="Canal 13 HD" tvg-name="Canal 13 HD" tvg-logo="https://i.ibb.co/hsPWxXx/canal-13.png" group-title="NOTICIAS",CANAL 13
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NyCKl8fwHt9SPtdXXVup9A", "kid":"VzdZuIhvXamSo8zOva6yHQ" },{ "kty":"oct", "k":"1oEjgsMbH+68Ukx1yiyZ7Q", "kid":"Wv/ZEqcIUEabrubtIQNdHA" },{ "kty":"oct", "k":"DCMFnyVyNIvc+KQXTctrqA", "kid":"+wF5ZnvWUr66PEtryUjYRw" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/canal13/canal13.mpd
+#KODIPROP:inputstream.adaptive.license_key=8b55a3ba068f882f49b36d216f29506f:77f418bbcfc73739ebca9c52321472d
+https://cors-proxy.cooks.fyi/https://cdn02.gigared.com.ar/live/eds/ESPN/sa_live_dash/ESPN.mpd
 
 #EXTINF:-1 tvg-id="CHV" tvg-name="CHV" tvg-logo="https://i.ibb.co/60YtW1H/chv.png" group-title="NOTICIAS",CHILEVISION HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
