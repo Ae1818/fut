@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="Actualizado 2/marzo/2026"
+#EXTM3U billed-msg="Actualizado 3/marzo/2026"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -101,8 +101,6 @@ https://master.tucableip.com/muxredunosc/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GRfQZMK.png" group-title="NOTICIAS",Fox News
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="http://imgfz.com/i/SHrm6TF.png" group-title="NOTICIAS",HispanTV
 https://ott2.hdlatam.tv:443/live_abr/Stream67/live/stream67hd/chunks.m3u8
@@ -231,20 +229,6 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="NOTICIAS", aljazeera
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-id="Canal 13 HD" tvg-name="Canal 13 HD" tvg-logo="https://i.ibb.co/hsPWxXx/canal-13.png" group-title="NOTICIAS",CANAL 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b55a3ba068f882f49b36d216f29506f:77f418bbcfc73739ebca9c52321472d
-https://cors-proxy.cooks.fyi/https://cdn02.gigared.com.ar/live/eds/ESPN/sa_live_dash/ESPN.mpd
-
-#EXTINF:-1 tvg-id="CHV" tvg-name="CHV" tvg-logo="https://i.ibb.co/60YtW1H/chv.png" group-title="NOTICIAS",CHILEVISION HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dqUhhx1yCBJDp1mzJJA6qg", "kid":"knfaekUMU3qMu2yCnJOLyQ" },{ "kty":"oct", "k":"E6pTzM3gwIdabnVpMs8u9Q", "kid":"hEWhRQNyXVGot2MJPkkH+g" },{ "kty":"oct", "k":"F0VQQyWzeSLA1a2u6sgDwg", "kid":"c+/00+G8XmGaLGIc/6H4gg" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd
-
 #EXTINF:-1 tvg-id="Mega" tvg-name="Mega" tvg-logo="https://i.ibb.co/KVwyHBQ/mega.png" group-title="NOTICIAS",MEGA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"omisb3BTUd+mx3OY11VZ2A", "kid":"aPEVoOM+XuqA6n1DlAhRIg" },{ "kty":"oct", "k":"RvzUidoRiHnKg53LDMJgyg", "kid":"O0mp7/cJUPilYLh1X+uVAg" },{ "kty":"oct", "k":"zV8aUU7WOnbuyrEZWOPSww", "kid":"vZBRINS1WiSN/5S5by9xQw" } ], "type":"temporary" }
@@ -260,11 +244,9 @@ https://cdn-live.mundogo.cl/tvn/tvn.mpd
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/340px-Bundesliga_logo_%282017%29.svg.png" group-title="LIGAS EUROPEAS",BUNDESLIGA (3)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=67905848180231a8a51a6539670d6e8d:50cec07ba1ff5395e451ed2950d39fb2
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/szmus1u1h0/out/v1/6d3245aa41e0455489ec87d3a144abea/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=9552bcbabfbd4ac19744422143bfb875:e6daacaced7eba147d2b667441060a4f
+https://v4-kun-nk16-cdn-01.live.cdn.cgates.lt/live/dash/561504/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/300px-Serie_A_logo_2022.svg.png" group-title="LIGAS EUROPEAS", SERIE A (2)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -346,9 +328,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/
 https://lstv.duckdns.org:449/hls/stv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGAS EUROPEAS", LIGA ESPAÑOLA (3)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9552bcbabfbd4ac19744422143bfb875:e6daacaced7eba147d2b667441060a4f
-https://v4-kun-nk16-cdn-01.live.cdn.cgates.lt/live/dash/561504/index.mpd
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGAS EUROPEAS", LIGA ESPAÑOLA (4)
 http://38.44.109.41:8003/play/a03x/index.m3u8
