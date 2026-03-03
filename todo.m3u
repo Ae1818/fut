@@ -932,7 +932,7 @@ https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa" tvg-id="5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa" tvg-logo="https://hootlask.com/img/logo/ea.jpg" group-title="CINE" , Cine Canal
-https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
+http://181.114.57.246:4000/play/AS2ESM6kwGDqHCaX/index.m3u8
 
 
 #EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://i.imgur.com/0LWxQ0O.png" tvg-id="",canal 7 🇬🇹
@@ -1338,14 +1338,8 @@ https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="USA",ANIMAL PLANET ENG   
 https://kusnadipepenk.github.io/ntn/animal.m3u8
 
-#EXTINF:-1,  tvg-name="DISCOVERYCH"  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYCHANNEL.png" group-title="CULTURA",DISCOVERY
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://clarovideo.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7d4348407bf86d982076fb0ffa654e6:80acc54d3c56ed0770c4f12f91b53b68
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_CHANNEL_HD)/manifest.mpd
-
 #EXTINF:-1,  tvg-name="DISCOVERYCH"  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYCHANNEL.png" group-title="CULTURA",DISCOVERY CHANNEL
-http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
+http://181.114.57.246:4000/play/ZbNgJUAyX5qQ2Kck/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Space.(México).sv" tvg-logo="https://i.imgur.com/hgCWY6V.png" group-title="CULTURA",Space
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
