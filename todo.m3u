@@ -791,7 +791,7 @@ http://168.227.22.18:1935/tvo/02085f/playlist.m3u8
 https://live-atv-cdn.izzigo.tv/2/out/u/dash/ANIMAL-PLANET-HD/manifest.mpd
 
 #EXTINF:-1 group-title="CULTURA" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://i.imgur.com/NJxedr8.png", History Channel
-https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
+http://181.114.57.246:4000/play/hgRR6HGdf23As/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21756968_ico.png" group-title="CINE", Telemundo
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/las-estrellas.png" group-title="MEXICO", Las Estrellas 
@@ -1002,7 +1002,7 @@ https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
 https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://www.pngkit.com/png/full/166-1669896_yellow-rectangle-png-colorfulness.png",NatGeo 
-https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+http://181.114.57.246:4000/play/TQqUqLTut8Hk4F89/index.m3u8
 
 
 #EXTINF:-1 group-title="CINE" tvg-id="Canal.Cine.Sony.sv" tvg-logo="https://i.imgur.com/ZhH7tLU.png",Sony Movies
