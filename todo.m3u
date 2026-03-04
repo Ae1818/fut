@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
-https://teleon.tv/stream/cG5wODQ3ODEzM3BucDg0.m3u8
+http://190.105.128.198:5800/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="EL SALVADOR",CANAL 4
 https://teleon.tv/stream/cG5wODQ3ODEyOXBucDg0.m3u8
@@ -12,10 +12,10 @@ https://teleon.tv/stream/cG5wODQ3ODEyOXBucDg0.m3u8
 http://181.78.109.48:9998/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="EL SALVADOR",CANAL 4 SD
-http://181.78.109.191:1050/play/a0jy/index.m3u8
+http://190.105.128.198:5800/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="EL SALVADOR",CANAL 6
-https://teleon.tv/stream/cG5wODQ3ODEzMXBucDg0.m3u8
+http://190.105.128.198:5800/play/a067/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png" group-title="EL SALVADOR",TCS+
 https://teleon.tv/stream/cG5wODQ3ODEzNXBucDg0.m3u8
@@ -70,9 +70,6 @@ https://cdn-edge2.cef-technology.com/wow/wow_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/TU-TV-El-Salvador-Canal-11-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="EL SALVADOR",CANAL 11 TUTV
 https://stream.giostreaming.app:19360/canal11/canal11.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/02_logo/tvu_salvador.jpg" group-title="EL SALVADOR",TVM
-http://201.247.102.189/tmp_hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvcnetwork.net/wp-content/uploads/2021/10/TVC-08.png" group-title="EL SALVADOR", TVC Network
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
@@ -198,8 +195,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/6759ee82bd523200083b4f0f/master.m3u
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/54/cc/c6/54ccc6489166a7b5deeca24728f98f67--movies-free-in-the-middle.jpg" group-title="24/7",MALCOM
 https://use16.playlist.ttvnw.net/v1/playlist/CsEGDnOiOtruxdgGAVLwZSiqJprnznp55PJ_jEIGX9tHE1qVhApY-JUGsop1A1X0MgTsDdc57foqJOhDyfsGTYzrYIdJwebi1c4eKwdwiH5istoyXtqVtE8-LMM-P9nGW4aokceBir5b3xjKuvurbkpXB9zMiXio4dt40vSZwopWt9b_obj4CELj15c0QdQZPyYWYNrueyL6fvE9YoC0HnAcO0_XbX8ZtXhvwVaniuWn3aLHhvzh31Pdn1nHQVfKhhPzsF8Zstne5lUdYYXXyKnpJ6mCYNjl_kP3213c2C0DXG6HqNJTZVHoswThcnQLnqmfzJTbj8HpPY4NhP3HIyhLQE9Vv6QIyRYS4dX3xz88yX46uK26JzEZu2s6nnigNrzeRDPvman9cy3I6waeTFZXyQKGvMIzpRBc06qz4dLYcpX-6j5nZFbafU3Cht2A5KkwOYw6pyP04mYPMthQpgOf1UCGoIRna4YwD9s1Ri3QhYdaQnY460DttrcGYEZadMM2-3inYuEQc54Px2RaRh3HCe0DQA-6u9_p60HPZc7LKXDNjjapZ7EpoR2awUHSUQKj1u9VPXGEDuXt6xKR0ObdssVCklBeZgMr_qMnMV3o062T4jOnpohStUeeYKEFn8aa6AtfwIQVbrVUVivedPSW-8GDb7ZBK0Du1K8tY-Wb-A-C6qx-ABiCyb46kTU40vqZ2jj7n8MMsU7GWW-3ySw64e5JG8VXb_bZnoMalFpiRxD0Nmy8HayY1CVvp5L1nNvsbgqLmuwa6W04MHUaRp_8_Cgu_dVq_MRJySbQeWXTogvWdjAbSBusXeQnd1hKKjxcVKG9lwbjz-LBIpZbfgQScU4ynjtRWEJ8VqZZMzbRehpTFxvmLns1b3jZSrKih10LYk0bdiDWsB7adKpFEvWjJ6I6VUePBrc8LYIbJp-45QmJcE8U1u1v7hmzl90Ng-_oMBIDKLlCX67p62BD3lJUje_eaBs776LLcB4kTmiVHkaBxiUlZMQeocCSsiXfFrfPw7giPhMp5UrilZHCIikRVR-CoeseHSB860b6hYxC8g-eu4ZwGYyIF--WRSadOFHknEJdriWvFkryXbPO8WWxUEcaDMp4XKMWY0eVXqH10SABKgl1cy1lYXN0LTIw6gw.m3u8
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/318/CH_LOGO/160/160/0/0/87610940072910.png" group-title="CINE", Paramount
-http://181.114.57.246:4000/play/1DeeCTuOYU9GJRg9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FKNyC6c/Los-Pitufos-Tv.jpg" group-title="24/7", Los Pitufos
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
