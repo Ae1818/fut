@@ -49,7 +49,7 @@ https://live1-ott.izzigo.tv/14/out/u/dash/AZTECA-7-HD/default.mpd
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/640px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="EL SALVADOR",CANAL 10 🇸🇻
-https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist_w206990225.m3u8
+http://190.105.128.198:5800/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpfssOVN4jId42TOXRlq6_efZaV88C0JBf5O8gg0CEfw&s=10" group-title="EL SALVADOR",Aloud Sports (eventos)
 https://stream.mux.com/m4RFvYGZCYs02swKGtO00VcwlExV2RkHmafmLk3TPoBS4.m3u8
