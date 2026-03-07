@@ -1238,9 +1238,12 @@ https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
 
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="tsn3.ca" tvg-logo="https://www-elfinanciero-com-mx.cdn.ampproject.org/i/s/www.elfinanciero.com.mx/resizer/RoVI3SEBN2NdAUuOxWUszlW_RUM=/800x450/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/26RXT5RI5BC4ZGT7JCPKVJTPKY.jpeg",Fox Sports Premium 🇲🇽
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"9f327d24c66fbd84e15ab5c9ead7c7a4":"83837185529c0c4048f81386c2d36426"}
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
 #EXTINF:-1 tvg-id="RAI Sport.it" tvg-logo="https://i.ibb.co.com/WNCMfrdv/RAI.png" group-title="DEPORTES",Rai Sport
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1248,12 +1251,16 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/o
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="fox-sports.mx", tvg-logo="https://i.imgur.com/TJsHUSM.png", Fox Sports 🇲🇽
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7a7e7a06867c219a2137eaf19a049f5:5790bf30aecb9fe4a661878526104da4
-https://nog-live1-ott.izzigo.tv/11/out/u/dash/FOX-SPORTS-HD/default.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"2fbdaa3bea0d0323ae011b318d1db716":"8726ef7eaf5b9dce15fb6aa9f80bd53f"}
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
  
 #EXTINF:-1 group-title="DEPORTES" tvg-id="fox-sports-2.mx" tvg-logo="https://i.imgur.com/yedU8Gq.png", Fox Sports 2 🇲🇽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
@@ -1274,7 +1281,12 @@ https://archive.org/serve/la-vida-loca.-2008-christian-poveda-documental-canal-s
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg",Lilo & Stitch (2025)
 https://archive.org/download/l-ilo-stich-live-action-27052501/lIlo%20%26%20Stich-liveAction_27052501.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/scoobydoobydoo/images/1/16/Alohacover.jpg/revision/latest/thumbnail/width/360/height/360?cb=20201013125814&path-prefix=es" group-title="PELICULAS",Scooby Doo Aloha (2005)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/scoobydoobydoo/images/1/16/Alohacover.jpg/revision/latest/thumbnail/width/360/height/360?cb=20201013125814&path-prefix=es" group-title="PELICULAS",Scooby D#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"2fbdaa3bea0d0323ae011b318d1db716":"8726ef7eaf5b9dce15fb6aa9f80bd53f"}
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpdoo Aloha (2005)
 https://archive.org/download/scooby-doo-aloha-el-misterio-de-la-isla-1080p-id-24615_202104/Scooby-Doo%21%20Aloha%2C%20El%20misterio%20de%20la%20isla%201080p%20id_24615.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/GdMDcacJra4ZmDaBIRASIpzjmU.jpg",Toy story 1996
