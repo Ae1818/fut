@@ -764,15 +764,7 @@ http://181.78.4.250:8098/play/a08h/index.m3u8
 
 
 #EXTINF:-1 group-title="CINE" tvg-logo="https://megatelevisiontv.live/img/history.png",UNIVERSAL CINEMA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=66ee81febe768875ae2fee5b8f512e15:54882694734874f280259fb8b6766ab3
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CINEMA_HD)/manifest.mpd
-
+https://cablered.iptvperu.tv:1936/transcoder/universal_t3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal13Esquipulas.gt" tvg-logo="https://i.imgur.com/INKZvlN.png" group-title="CENTROAMERICA",Canal 13 Esquipulas 🇬🇹
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
