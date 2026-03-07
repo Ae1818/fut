@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="Actualizado 5/marzo/2026"
+#EXTM3U billed-msg="Actualizado 6/marzo/2026"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -25,7 +25,8 @@ https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="ElimTV.sv@SD" tvg-logo="https://i.imgur.com/payIg0N.png" group-title="EL SALVADOR",Elim TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://clv-ott-la-v7-wv-vdo.clarovideo.net/Widevine|Authorization=Bearer%20eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzI4NDI5ODgsImV4cCI6MTc3ODAyNzI4OCwidXNyIjp7InVzZXJfaWQiOiI4MzUyMTUzMCIsInVzZXJfdHlwZSI6IkNTVklQVFYiLCJ1c2VybmFtZSI6ImFuYTdtYXJnYXJpdGFAZ21haWwuY29tIiwiZW1haWwiOiJhbmE3bWFyZ2FyaXRhQGdtYWlsLmNvbSIsImZpcnN0bmFtZSI6Ik5PTUJSRUFQRUxMSURPIiwibGFzdG5hbWUiOiJOT01CUkVBUEVMTElETyIsImNvdW50cnlfY29kZSI6IlNWIiwicmVnaW9uIjoiZWxzYWx2YWRvciIsImFjY2VwdGVkX3Rlcm1zIjoxLCJnYW1pZmljYXRpb25faWQiOiI2NDg4YjU4OWY5NTk1ZjY1N2Q1NTJiZjgiLCJwYXJlbnRfaWQiOiI4MzUyMTUzMCIsImFjY291bnQiOiJQS3MxQzBUNEEuO3Bob25lLWNvbnRleHQ9Y2xhcm8uc3YiLCJhZG1pbiI6dHJ1ZSwicGdfZ2F0ZXdheSI6Imh1YmZhY3R1cmFmaWphZ2F0ZSJ9fQ.i9Jb3MGT9gymmWfRCZj1c-kKLTXTm62dl21yXemU3Kc&Content-Type=application/octet-stream
+#KODIPROP:inputstream.adaptive.license_key=https://clv-ott-la-v7-wv-vdo.clarovideo.net/Widevine|Authorization=Bearer%20eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzI4NDI5ODgsImV4cCI6MTc3ODAyNzI4OCwidXNyIjp7InVzZXJfaWQiOiI4MzUyMTUzMCIsInVzZXJfdHlwZSI6IkNTVklQVFYiLCJ1c2VybmFtZSI6ImFuYTdtYXJnYXJpdGFAZ21haWwuY29tIiwiZW1haWwiOiJhbmE3bWFyZ2FyaXRhQGdtYWlsLmNvbSIsImZpcnN0bmFtZSI6Ik5PTUJSRUFQRUxMSURPIiwibGFzdG5hbWUiOiJOT01CUkVBUEVMTElETyIsImNvdW50cnlfY29kZSI6IlNWIiwicmVnaW9uIjoiZWxzYWx2YWRvciIsImFjY2VwdGVkX3Rlcm1zIjoxLCJnYW1pZmljYXRpb25faWQiOiI2NDg4YjU4OWY5NTk1ZjY1N2Q1NTJiZjgiLCJwYXJlbnRfaWQiOiI4MzUyMTUzMCIsImFjY291bnQiOiJQS3MxQzBUNEEuO3Bob25lLWNvbnRleHQ9Y2xhcm8uc3YiLCJhZG1pbiI6dHJ1ZSwicGdfZ2F0ZXdheSI6Imh1YmZhY3R1cmFmaWphZ2F0ZSJ9fQ.i9Jb3MGT9gymmWfRCZj1c-kKLTXTm62dl21yXemU3Kc&Content-Type=application/octet-stream&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://svlocallivechannelsdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CANAL4SVHD)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canal-21.png/320px-Canal-21.png" group-title="EL SALVADOR",CANAL 21
