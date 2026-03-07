@@ -1250,8 +1250,8 @@ https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-id="fox-sports.mx", tvg-logo="https://i.imgur.com/TJsHUSM.png", Fox Sports 🇲🇽
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9970931d7a8d720333b8d3af89af42da:38c533f447c7eb4c176b2684cc3c76f1
-
+#KODIPROP:inputstream.adaptive.license_key=c7a7e7a06867c219a2137eaf19a049f5:5790bf30aecb9fe4a661878526104da4
+https://nog-live1-ott.izzigo.tv/11/out/u/dash/FOX-SPORTS-HD/default.mpd
  
 #EXTINF:-1 group-title="DEPORTES" tvg-id="fox-sports-2.mx" tvg-logo="https://i.imgur.com/yedU8Gq.png", Fox Sports 2 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
