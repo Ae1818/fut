@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="Actualizado 3/marzo/2026"
+#EXTM3U billed-msg="Actualizado 5/marzo/2026"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -24,7 +24,9 @@ https://teleon.tv/stream/cG5wODQ3ODEzNXBucDg0.m3u8
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="ElimTV.sv@SD" tvg-logo="https://i.imgur.com/payIg0N.png" group-title="EL SALVADOR",Elim TV
-https://stream.soporteccrtv.xyz/hls/master-dveo.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b28a968d13b7891447c935fc2c594b0:909da6472ee00372215e5dece9db69ac
+https://clv-ott-la-v7-wv-vdo.clarovideo.net/Content/DASH_DASH_W_VM/Live/Channel(CANAL4SVHD)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canal-21.png/320px-Canal-21.png" group-title="EL SALVADOR",CANAL 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
