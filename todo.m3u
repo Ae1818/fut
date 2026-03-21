@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="Actualizado 8/marzo/2026"
+#EXTM3U billed-msg="Actualizado 21/marzo/2026"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -213,21 +213,10 @@ https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/32
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png" group-title="LIGAS EUROPEAS",PREMIER LEAGUE (2)
-https://cablered.iptvperu.tv:1936/espn_new/playlist.m3u8
+https://live.plplayer.com:443/play/D2UoHPkyR-5uxgoCnSrjqFoKjqZFnqPeJkdzSN-IFxc/m3u8
 
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="NOTICIAS", aljazeera
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
-
-#EXTINF:-1 tvg-id="Mega" tvg-name="Mega" tvg-logo="https://i.ibb.co/KVwyHBQ/mega.png" group-title="NOTICIAS",MEGA HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"omisb3BTUd+mx3OY11VZ2A", "kid":"aPEVoOM+XuqA6n1DlAhRIg" },{ "kty":"oct", "k":"RvzUidoRiHnKg53LDMJgyg", "kid":"O0mp7/cJUPilYLh1X+uVAg" },{ "kty":"oct", "k":"zV8aUU7WOnbuyrEZWOPSww", "kid":"vZBRINS1WiSN/5S5by9xQw" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/megahd/megahd.mpd
-
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://i.ibb.co/3NmJZNb/tvn.png" group-title="NOTICIAS",TVN HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d/nU1qFwH1NSCLz7WcAxHw", "kid":"qsQrXWpvW+2/1irF/vKJeA" },{ "kty":"oct", "k":"XiOoAFP7J086ASb6KHrrzw", "kid":"4hyVGmZxWcujnAmpRnUfcw" },{ "kty":"oct", "k":"ZJueey+t0p2zVbbbvAxS6w", "kid":"coh5b86yVlucQZ22OLXcGw" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/tvn/tvn.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/noR4NUo.jpeg" group-title="NOTICIAS",TELESUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
@@ -259,9 +248,7 @@ https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/32
 
 
 #EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png" group-title="LIGAS EUROPEAS",PREMIER LEAGUE (4)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
-https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
+https://02.arlivre.online/espn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/300px-Ligue1_Uber_Eats_logo.png" group-title="LIGAS EUROPEAS",LIGUE 1 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
