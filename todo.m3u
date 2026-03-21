@@ -439,21 +439,13 @@ https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
 
 #EXTINF:-1 ch-number="110" tvg-id="ClaroSports.mx.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLASP.png?raw=true" group-title="DEPORTES", Claro Sports
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=74cdcb63ff3e4f3ce4da4243b6d1e1d8:9b8366fa8e9ebcdf4b349d6c9d528115
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://covoslivechannels2dash.clarovideo.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_LATAM_HD)/manifest.mpd
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
-#EXTINF:-1 group-title="INFANTILES" ch-number="201" tvg-id="CanalInfantil" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/115-Cartoonito.png", Cartoon Network
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=3a827f7fede44d8d973cbbaab0c089c0:f91eeb3c7c12d9391434dc79a872c0b9
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CARTOON_NETWORK_HD)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6HzHR5Q/babyfirst.png" group-title="INFANTILES", BabyFirst
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=320e1cb23cf15aa8f41a9edd52baa655:63c5e57ae2a2bc7dab3c67cac1a6c956
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/SKY-BABY-FIRST-SD/default.mpd
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/1403/1403474.png" group-title="Lista 11",_CLICK AQUI PARA ACTIVAR !!
 https://mx1.gt-app.com/aXkOpHghTvM/fTrgOpYKsP.php|user-agent=Chrome/Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML group-title="Lista 11",  like Gecko) Chrome/103.0.0.0 Safari/537.36
