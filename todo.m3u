@@ -247,7 +247,12 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 https://live.plplayer.com:443/play/D2UoHPkyR-5uxgoCnSrjqCFlhpBWIWQbVLkv4EnDrDQ/m3u8
 
 #EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png" group-title="LIGAS EUROPEAS",PREMIER LEAGUE (4)
-https://02.arlivre.online/espn/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+https://starhub-307.tvsucker.workers.dev/bpk-tv/HubPremier1/output/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/300px-Ligue1_Uber_Eats_logo.png" group-title="LIGAS EUROPEAS",LIGUE 1 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
@@ -930,7 +935,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.
 
 #EXTINF:-1 tvg-id="NBC Universo" tvg-logo="https://img.nbc.com/files/images/2019/4/25/Universo-logos-templateUniverso-Logo-White-450x228.png?impolicy=nbc_com&imwidth=340&imdensity=1" group-title="DEPORTES", NBC Universo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
+#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
 
 #EXTINF:-1 tvg-id="ARANG(ArirangTVKoreaWorldNetwork).us" tvg-name="Arirang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28452_dark_360w_270h.png" group-title="CINE",Arirang
