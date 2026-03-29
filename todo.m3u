@@ -846,7 +846,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=16
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsmm&token=3576476147
 
 #EXTINF:-1 tvg-chno="902" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNVSN.png?raw=true" group-title="NOTICIAS", Univisión
-https://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
 
 #EXTINF:-1 tvg-chno="902" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="NOTICIAS", NOTICIAS 🇦🇷
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
