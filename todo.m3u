@@ -906,6 +906,7 @@ https://nog-live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGAS EUROPEAS", LIGA ESPAÑOLA (6)
 https://live.plplayer.com:443/play/D2UoHPkyR-5uxgoCnSrjqM2taQVUDgFckPs9mZKq8ZQ/m3u8
 
+
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i2.paste.pics/dad53a17aceb11d80b7ec90ec2398f2f.png" group-title="INFANTILES", chinola tv
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
@@ -927,6 +928,12 @@ https://bks400-tol-110.quieroxview.com.mx/bpk-tv/espn_3_hd/default/index.mpd
 #EXTINF:-1 tvg-id="sharktank-sony" tvg-logo="https://i.imgur.com/p8nLe91.jpeg" group-title="24/7",Sony One Sharktank
 https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo-0.png" group-title="DEPORTES", FORMULA 1 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=505616380de706936e493fdd1c25d0b6:5b313f49c63c682236eab3357400e216
+https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
 
 #EXTINF:-1 tvg-id="nbatvengmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="DEPORTES", NBA TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
