@@ -928,6 +928,10 @@ https://bks400-tol-110.quieroxview.com.mx/bpk-tv/espn_3_hd/default/index.mpd
 #EXTINF:-1 tvg-id="sharktank-sony" tvg-logo="https://i.imgur.com/p8nLe91.jpeg" group-title="24/7",Sony One Sharktank
 https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="nick jr" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nick-Jr.-Logo-2009-present-700x394.png" group-title="INFANTILES",Nick Jr. HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/nick_jr_hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo-0.png" group-title="DEPORTES", FORMULA 1 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
