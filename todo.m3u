@@ -106,25 +106,25 @@ https://ott2.hdlatam.tv:443/live_abr/Stream67/live/stream67hd/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id=\"ESPN HD.uy\" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="⚽ESPN", ESPN 🇨🇴
-http://38.44.109.41:8003/play/a03x/index.m3u8
+http://181.224.200.5:2277/play/aa07/index.m3u8
 
 #EXTINF:-1 tvg-id=\"ESPN 2 HD.uy\" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="⚽ESPN", ESPN 2 🇨🇴
-http://38.44.109.41:8003/play/a03u/index.m3u8
+http://181.224.200.5:2277/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-id=\"ESPN 3 HD.uy\" group-title="⚽ESPN" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" ,ESPN 3 🇨🇴
-http://38.44.109.41:8003/play/a03v/index.m3u8
+http://181.224.200.5:2277/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-id=\"ESPN 5 HD.uy\" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="⚽ESPN", ESPN 4 🇨🇴
-http://38.44.109.41:8003/play/a03y/index.m3u8
+http://181.224.200.5:2277/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-id=\"ESPN 5 HD.uy\" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="⚽ESPN", ESPN 5 🇨🇴
-http://38.44.109.41:8003/play/a03w/index.m3u8
+http://181.224.200.5:2277/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-id=\"ESPN 6 HD.uy\" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="⚽ESPN", ESPN 6 🇨🇴
-http://38.44.109.41:8003/play/a03x/index.m3u8
+http://181.224.200.5:2277/play/a02h/index.m3u8
 
 #EXTINF:-1 tvg-id=\"ESPN 7 HD.uy\" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="⚽ESPN", ESPN 7 🇨🇴
-http://38.44.109.41:8003/play/a03z/index.m3u8
+http://181.224.200.5:2277/play/a02l/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="CULTURA",Nat Geo Wild
@@ -329,7 +329,7 @@ https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
 
 #EXTINF:-1 group-title="LIGAS EUROPEAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png" ,PREMIER LEAGUE
-http://38.44.109.41:8003/play/a03x/index.m3u8
+http://181.224.200.5:2277/play/aa07/index.m3u8
 
 #EXTINF:-1 group-title="LIGAS EUROPEAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png" ,PREMIER LEAGUE (3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -736,7 +736,7 @@ rtmp://s.emisoras.tv/static/diostevekids
 https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="lasexta.es" tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="DEPORTES", ESPN
-http://27.50.12.147:8000/play/a011/index.m3u8
+http://181.224.200.5:2277/play/aa07/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/873/769/png-clipart-espn-com-logo-espn-radio-others-text-label-thumbnail.png" group-title="DEPORTES", ESPN 🇧🇷
