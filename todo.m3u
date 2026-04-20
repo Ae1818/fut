@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="Actualizado 17/abril/2026"
+#EXTM3U billed-msg="Actualizado 19/abril/2026"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -611,6 +611,10 @@ https://mx1.gt-app.com/82/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUr
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tnt_hd/default/index.mpd
 
 #EXTINF:-1 group-title="RELIGIOSO" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png", SALVAVISION
+https://tv.webmedialive.com/salvavision/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZPpdT76/5644ea11-1aa8-47fd-bd45-61155c50d403.jpg" group-title="RELIGIOSO", SALVAVISION
 https://tv.webmedialive.com/salvavision/live/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-shift="" tvg-logo="https://i.ibb.co/DCxcBBw/DPel-cula-2021.png" group-title="CINE", De Pelicula
