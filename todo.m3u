@@ -31,7 +31,9 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="FIFA WORLD CUP",  Dazn 🇪🇸
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="FIFA WORLD CUP",  D Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
