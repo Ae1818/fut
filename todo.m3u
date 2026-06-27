@@ -393,7 +393,7 @@ https://svlocallivechannelsdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel
 #EXTINF:-1 tvg-id="Win Sports.co" tvg-logo="https://iptvboss.xyz/logos/Colombia/WinSports.co.png" group-title="DEPORTES", WIN SPORTS COLOMBIA
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
-#EXTINF:-1 tvg-id="Win+Futbol.co" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="DEPORTES", WIN+ FÚTBOL COLOMBIA
+#EXTINF:-1 tvg-id="Win+Futbol.co" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="DEPORTES", Mega 🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=271a02e1bc5decc30ac1eee7b1353b3d:3510f830b5873c9b3a4fa75c5c8e7b12
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/i3lh6rjo6h/out/v1/3f2d0041aa034913bccea57ede3396b6/cenc.mpd
