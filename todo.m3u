@@ -32,6 +32,11 @@ http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/26
 
 #EXTINF:-1 tvg-logo="" group-title="FIFA WORLD CUP",  Dazn 🇪🇸
 https://tv.notibot.cloud/hls/telemundo/stream.m3u8
+#EXTINF:-1 tvg-name="FIFA World Cup 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvhIcbmaPCqDj_1VkP7ovi3ERp8IIFohPlk-jo34Haul20KEMl2WDPUIDL7vPx7Qw0JS4mpXeOAhpUy_bYIp9rU-o3FV7dl2rhHbmbuMG5G_sl7QRfPUeGmJ9_-Fu10oWzr22dA2wjMoLn19twIPTgeH17GKPwZ-Q_egpQbGHXTIwC8zHSRJIKeRGIc9Pv/s320/FIFA-world-cup-2026-752x440.webp" group-title="FIFA WORLD CUP" server="FOX" event-name="Spain vs Argentina" event-time="2026-07-20T02:00" event-duration="3",FOX 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
+
 
 #EXTINF:-1 tvg-logo="" group-title="FIFA WORLD CUP",  D Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
