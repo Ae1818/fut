@@ -661,11 +661,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/300px-Telemundo_logo_2012.svg.png" group-title="DEPORTES", TELEMUNDO
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51710c9c227a4637991466ece1b3550e:831bfae1e16f4cc2cda5d620e6d1e96a
-https://bks400-tol-110.quieroxview.com.mx/bpk-tv/fox_mas_hd/default/index.mpd
+https://tinyurl.com/telemundotva
 
 
 #EXTINF:-1 tvg-id="CGTN Español" group-title="NOTICIAS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CCTV-E",CGTN Español
