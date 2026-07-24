@@ -402,8 +402,8 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pyb
 #KODIPROP:inputstream.adaptive.license_key=https://clv-ott-la-v7-wv-vdo.clarovideo.com/Widevine|Authorization=Bearer%20eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzI4NDI5ODgsImV4cCI6MTc3ODAyNzI4OCwidXNyIjp7InVzZXJfaWQiOiI4MzUyMTUzMCIsInVzZXJfdHlwZSI6IkNTVklQVFYiLCJ1c2VybmFtZSI6ImFuYTdtYXJnYXJpdGFAZ21haWwuY29tIiwiZW1haWwiOiJhbmE3bWFyZ2FyaXRhQGdtYWlsLmNvbSIsImZpcnN0bmFtZSI6Ik5PTUJSRUFQRUxMSURPIiwibGFzdG5hbWUiOiJOT01CUkVBUEVMTElETyIsImNvdW50cnlfY29kZSI6IlNWIiwicmVnaW9uIjoiZWxzYWx2YWRvciIsImFjY2VwdGVkX3Rlcm1zIjoxLCJnYW1pZmljYXRpb25faWQiOiI2NDg4YjU4OWY5NTk1ZjY1N2Q1NTJiZjgiLCJwYXJlbnRfaWQiOiI4MzUyMTUzMCIsImFjY291bnQiOiJQS3MxQzBUNEEuO3Bob25lLWNvbnRleHQ9Y2xhcm8uc3YiLCJhZG1pbiI6dHJ1ZSwicGdfZ2F0ZXdheSI6Imh1YmZhY3R1cmFmaWphZ2F0ZSJ9fQ.i9Jb3MGT9gymmWfRCZj1c-kKLTXTm62dl21yXemU3Kc&Content-Type=application/octet-stream
 https://svlocallivechannelsdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CANAL4SVHD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="Win Sports.co" tvg-logo="https://iptvboss.xyz/logos/Colombia/WinSports.co.png" group-title="DEPORTES", WIN SPORTS COLOMBIA
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+#EXTINF:-1 tvg-chno="24.1" tvg-id="I692.11118.schedulesdirect.org" tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="DEPORTES", Univision Network
+https://telegratuita.net/cors-proxy.php?url=https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8?0GKUSH_R4IN&DONTSTEAL
 
 #EXTINF:-1 tvg-id="Win+Futbol.co" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="DEPORTES", Mega 🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
